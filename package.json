@@ -1,0 +1,25 @@
+{
+  "name": "Upload-files-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HRDagmara/Upload-files-images.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HRDagmara/Upload-files-images/issues"
+  },
+  "homepage": "https://github.com/HRDagmara/Upload-files-images#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "formidable": "^1.2.1"
+  }
+}
